@@ -1,2 +1,2 @@
 This is a front-end website built on React.
-This is for practicing only.
+This is an exercise following LinkedIn Learning course by Ray Villalobos.
